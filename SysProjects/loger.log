@@ -1,0 +1,153 @@
+2023-11-19 21:02:36,726  Table 'login' successfully created in 'D:\Python_env\python_projects\Projects\login_data_base.db'
+2023-11-19 21:03:20,244 Record dict_keys(['username']) not exist
+2023-11-19 21:04:51,011  Table 'login' Detected
+2023-11-19 21:04:51,013 Record dict_keys(['username']) not exist
+2023-11-19 21:04:51,170  Primary key must have Unique Value: 'login.username'
+2023-11-19 21:04:51,170 Sign up successfully
+2023-11-19 21:05:10,859  Table 'login' Detected
+2023-11-19 21:05:10,859 amin was taken...!
+2023-11-19 21:06:05,366  Table 'login' Detected
+2023-11-19 21:07:20,262  Table 'login' Detected
+2023-11-19 21:08:44,900  Table 'login' Detected
+2023-11-19 21:09:15,157  Table 'login' Detected
+2023-11-19 21:09:38,345  Table 'login' Detected
+2023-11-19 21:09:38,368 Record dict_keys(['username']) not exist
+2023-11-19 21:09:38,368 Account not found please sign up first
+2023-11-19 21:24:07,948  Table 'login' Detected
+2023-11-19 21:24:07,948 Try to create "amin" again
+2023-11-19 21:24:27,434  Table 'login' Detected
+2023-11-19 21:25:29,710  Table 'login' Detected
+2023-11-19 21:25:29,710 Record {'username': 'hamed'} not exist
+2023-11-19 21:25:29,710  Table 'login' Detected
+2023-11-19 21:25:29,869  Primary key must have Unique Value: 'login.username'
+2023-11-19 21:25:29,869 Account "hamed" created.
+2023-11-19 21:25:40,464  Table 'login' Detected
+2023-11-19 21:25:40,464 "hamed" entered worng password
+2023-11-19 21:25:54,161  Table 'login' Detected
+2023-11-19 21:25:54,161 "hamed" entered worng password
+2023-11-19 21:26:18,207  Table 'login' Detected
+2023-11-19 21:26:18,207 "hamed" entered worng password
+2023-11-19 21:29:06,455  Table 'login' successfully created in 'D:\Python_env\python_projects\Projects\login_data_base.db'
+2023-11-19 21:29:06,455 Record {'username': 'amin'} not exist
+2023-11-19 21:29:57,034  Table 'login' successfully created in 'D:\Python_env\python_projects\Projects\login_data_base.db'
+2023-11-19 21:29:57,034 Record {'username': 'amin'} not exist
+2023-11-19 21:32:59,188  Table 'login' Detected
+2023-11-19 21:32:59,188 Record {'username': 'amin'} not exist
+2023-11-19 21:32:59,188  Table 'login' Detected
+2023-11-19 21:32:59,353  Primary key must have Unique Value: 'login.username'
+2023-11-19 21:32:59,353 Account "amin" created.
+2023-11-19 21:33:08,764  Table 'login' Detected
+2023-11-19 21:33:08,764 Try to create "amin" again
+2023-11-19 21:33:35,084  Table 'login' Detected
+2023-11-19 21:33:35,090 Record {'username': 'hamed'} not exist
+2023-11-19 21:33:35,090  Table 'login' Detected
+2023-11-19 21:33:35,236  Primary key must have Unique Value: 'login.username'
+2023-11-19 21:33:35,236 Account "hamed" created.
+2023-11-19 21:34:02,616  Table 'login' Detected
+2023-11-19 21:34:02,616  'amin' Signed in
+2023-11-19 21:34:39,145  Table 'login' Detected
+2023-11-19 21:34:39,145 "amin" entered worng password
+2023-11-19 22:00:14,276  Table 'login' Detected
+2023-11-19 22:01:21,058  Table 'login' Detected
+2023-11-19 22:01:47,045  Table 'login' Detected
+2023-11-19 22:02:49,526  Table 'login' Detected
+2023-11-19 23:18:53,035  Table 'login' Detected
+2023-11-19 23:23:24,078  Table 'login' Detected
+2023-11-19 23:23:44,902 Try to create "amin" again
+2023-11-19 23:24:13,870  Table 'login' Detected
+2023-11-19 23:24:13,871 Record {'username': 'ati'} not exist
+2023-11-19 23:24:27,873 Try to create "ati" again
+2023-11-19 23:25:29,586  Table 'login' Detected
+2023-11-19 23:25:29,603 Record {'username': 'ati'} not exist
+2023-11-19 23:25:41,077 Try to create "ati" again
+2023-11-19 23:26:36,112  Table 'login' Detected
+2023-11-19 23:26:52,721 Record {'username': 'ati'} not exist
+2023-11-19 23:27:50,810 Try to create "ati" again
+2023-11-19 23:28:15,333  Table 'login' Detected
+2023-11-19 23:28:15,336 Record {'username': 'ati'} not exist
+2023-11-19 23:28:57,032  Table 'login' Detected
+2023-11-19 23:29:28,176 Record {'username': 'ati'} not exist
+2023-11-19 23:30:26,596  Table 'login' Detected
+2023-11-19 23:30:26,598 Record {'username': 'ati'} not exist
+2023-11-19 23:30:54,643 Try to create "ati" again
+2023-11-19 23:32:30,714  Table 'login' Detected
+2023-11-20 02:09:46,851  Table 'login' Detected
+2023-11-20 02:12:44,709  Table 'login' Detected
+2023-11-20 02:40:17,791  Table 'login' Detected
+2023-11-20 02:43:37,540  Table 'login' Detected
+2023-11-20 02:45:47,826  Table 'login' Detected
+2023-11-20 02:45:47,826 Record {'username': 'ati', 'pasword': '123'} not exist
+2023-11-20 02:45:47,826 Try to create "ati" again
+2023-11-20 02:46:35,640  Table 'login' Detected
+2023-11-20 02:46:35,642 Record {'username': 'ati', 'pasword': '123'} not exist
+2023-11-20 02:46:35,918  Primary key must have Unique Value: 'login.username'
+2023-11-20 02:46:35,918 Account "ati" created.
+2023-11-20 02:47:27,127  Table 'login' Detected
+2023-11-20 02:47:27,128 Record {'username': 'ati', 'pasword': '123'} not exist
+2023-11-20 02:47:27,129  Primary key must have Unique Value: 'login.username'
+2023-11-20 02:47:27,129 Account "ati" created.
+2023-11-20 02:47:37,678  Table 'login' Detected
+2023-11-20 02:47:37,678 Record {'username': 'ati', 'pasword': '123'} not exist
+2023-11-20 02:47:37,678  Primary key must have Unique Value: 'login.username'
+2023-11-20 02:47:37,678 Account "ati" created.
+2023-11-20 02:48:01,177  Table 'login' Detected
+2023-11-20 02:48:01,178 Try to create "ati" again
+2023-11-20 02:48:44,803  Table 'login' Detected
+2023-11-20 02:48:44,804 Record {'username': 'samad'} not exist
+2023-11-20 02:48:45,041  Primary key must have Unique Value: 'login.username'
+2023-11-20 02:48:45,041 Account "samad" created.
+2023-11-20 02:48:53,952  Table 'login' Detected
+2023-11-20 02:48:53,954 Try to create "samad" again
+2023-11-20 02:52:27,569  Table 'login' Detected
+2023-11-20 02:52:27,569  'samad' Signed in
+2023-11-20 02:52:48,193  Table 'login' Detected
+2023-11-20 02:52:48,195 "samad" entered worng password
+2023-11-20 02:53:05,877  Table 'login' Detected
+2023-11-20 02:53:05,879  'samad' Signed in
+2023-11-20 02:53:11,679  Table 'login' Detected
+2023-11-20 02:53:11,679 Record {'username': 'ahad'} not exist
+2023-11-20 02:53:11,679 Account 'ahad' not found please sign up first
+2023-11-20 02:53:19,336  Table 'login' Detected
+2023-11-20 02:53:19,337 "amin" entered worng password
+2023-11-20 03:12:00,678  Table 'login' Detected
+2023-11-20 03:12:00,678 Try to create "samad" again
+2023-11-20 03:12:00,678  Table 'login' Detected
+2023-11-20 03:12:00,678 "amin" entered worng password
+2023-11-20 03:12:12,362  Table 'login' Detected
+2023-11-20 03:12:12,363  'amin' Signed in
+2023-11-20 03:15:15,999  Table 'login' Detected
+2023-11-20 03:15:16,000 "amin" entered worng password
+2023-11-20 03:15:32,947  Table 'login' Detected
+2023-11-20 03:15:32,949  'amin' Signed in
+2023-11-20 03:48:28,738  Table 'login' Detected
+2023-11-20 03:48:28,740  'amin' Signed in
+2023-11-20 03:48:57,440  Table 'login' Detected
+2023-11-20 03:48:57,440  'amin' Signed in
+2023-11-20 04:16:13,962  Table 'login' Detected
+2023-11-20 04:16:13,962 Try to create "amin" again
+2023-11-20 04:17:11,692  Table 'login' Detected
+2023-11-20 04:17:11,693  'amin' Signed in
+2023-11-20 04:17:30,945  Table 'login' Detected
+2023-11-20 04:17:30,945  'amin' Signed in
+2023-11-20 04:17:43,889  Table 'login' Detected
+2023-11-20 04:17:43,891 "amin" entered worng password
+2023-11-20 04:17:53,029  Table 'login' Detected
+2023-11-20 04:17:53,031 Record {'username': 'ami5n'} not exist
+2023-11-20 04:17:53,031 Account 'ami5n' not found please sign up first
+2023-11-20 04:18:41,862  Table 'login' Detected
+2023-11-20 04:18:41,879 Try to create "amin" again
+2023-11-20 04:20:10,447  Table 'login' Detected
+2023-11-20 04:20:10,447 Try to create "amin" again
+2023-11-20 04:20:19,347  Table 'login' Detected
+2023-11-20 04:20:19,363  'amin' Signed in
+2023-11-20 04:20:29,061  Table 'login' Detected
+2023-11-20 04:20:29,061 Record {'username': 'asdas'} not exist
+2023-11-20 04:20:29,061 Account 'asdas' not found please sign up first
+2023-11-20 04:20:49,405  Table 'login' Detected
+2023-11-20 04:20:49,405 Record {'username': 'saman'} not exist
+2023-11-20 04:20:49,601  Record Successfully added: saman
+2023-11-20 04:20:49,601 Account "saman" created.
+2023-11-20 04:20:57,421  Table 'login' Detected
+2023-11-20 04:20:57,421 Try to create "saman" again
+2023-11-20 04:21:02,407  Table 'login' Detected
+2023-11-20 04:21:02,407  'saman' Signed in
