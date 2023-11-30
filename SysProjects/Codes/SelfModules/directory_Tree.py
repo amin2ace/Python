@@ -80,4 +80,3 @@ class Tree:
         for line in self.tree_ish(self.root):
             print(line)
         return ''
-Tree().to_file('amin')
