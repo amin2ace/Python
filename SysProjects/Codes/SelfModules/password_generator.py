@@ -1,3 +1,19 @@
+r"""_summary_:
+            This module generates a dynamic length password
+
+            directory tree of all subfolders
+
+            for specific path.
+
+            after instanciating Tree generate with 'walking' method.
+
+            author: 'Amin Vahdani'
+
+            feedback: avmap.py@gmail.com
+"""
+__author__ = 'Amin Vahdani'
+__email__  = 'avmap.py@gmail.com'
+
 from random import sample
 from string import ascii_letters, punctuation
 
