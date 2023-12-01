@@ -7,4 +7,4 @@ Scripts/*
 .venv.code-workspace
 pyvenv.cfg
 share/*
-SysProjects/Codes/test.py
+./SysProjects/Codes/test.py

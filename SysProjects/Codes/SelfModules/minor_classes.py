@@ -343,3 +343,19 @@ class Sorting():
         return self.list
 
 
+
+class LongestEvenWord:
+    '''Return Longest word in the sentence witch has even length
+    if there id no even words returns '00'
+    '''
+
+    def __init__(self, sentence:str):
+        self.words:list= sentence.split(' ')
+        self.longest = "00"
+
+    def __repr__(self) -> str:
+        for word in self.words:
+            if len(word)%2 ==0 and len(word)>len(self.longest):
+                self.longest = word
+            
+        return self.longest
