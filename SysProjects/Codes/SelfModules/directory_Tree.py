@@ -25,7 +25,7 @@ __check__ = ['black', 'isort', 'mypy']
 
 __author__ = "Amin Vahdani"
 __email__ = "avmap.py@gmail.com"
-__check__ = ["black", "isort", "mypy"]
+__check__ = ["black", "isort", "mypy", "Pep8"]
 
 
 import os
