@@ -1,0 +1,10 @@
+Include/*
+Lib/**/*
+Lib/**/*.*
+man/*
+Scripts/*
+.vscode/*
+.venv.code-workspace
+pyvenv.cfg
+share/*
+SysProjects/Codes/test.py
