@@ -2520,23 +2520,35 @@ import pickle
     
 
 ## 6
-from urllib.parse import unquote
-url2 =urlopen('http://www.pythonchallenge.com/pc/def/channel.jpg').read()
-# print(url2, )
-d=''
+# from urllib.parse import unquote
+# url2 =urlopen('http://www.pythonchallenge.com/pc/def/channel.jpg').read()
+# # print(url2, )
+# d=''
 
-from os import walk, path
-import zipfile
-ad = zipfile.ZipFile('C:/Users/Deathkiss/Downloads/HTML/channel.zip')
+# from os import walk, path
+# import zipfile
+# ad = zipfile.ZipFile('C:/Users/Deathkiss/Downloads/HTML/channel.zip')
 
-with open('D:/VENVS/Sys/.venv/SysProjects/Codes/tere.txt', 'w') as f:
-    for _,_,i in walk('C:/Users/Deathkiss/Documents/garbeg'):
-        file = '90052'
-        for l in i:
-                cont = ad.getinfo(l+'.txt').comment.decode()
+# with open('D:/VENVS/Sys/.venv/SysProjects/Codes/tere.txt', 'w') as f:
+#     for _,_,i in walk('C:/Users/Deathkiss/Documents/garbeg'):
+#         file = '90052'
+#         for l in i:
+#                 cont = ad.getinfo(l+'.txt').comment.decode()
                 
-                f.write(f'{cont}\n')
-                # print(text)
-print(ad.read())
+#                 f.write(f'{cont}\n')
+#                 # print(text)
+# print(ad.read())
 # for i in url:
 #     print(''.join([k*j for k, j in i]))
+
+
+
+
+
+
+import art
+
+
+
+a =art.art('amin')
+print(a)
