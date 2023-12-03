@@ -1,4 +1,5 @@
-./SysProjects\Codes\Morse_Code\__pycache__\*
+SysProjects/Codes/Morse_Code/__pycache__/*
+SysProjects/Codes/Morse_Code/__pycache__
 Include/*
 Lib/**/*
 Lib/**/*.*
@@ -9,3 +10,4 @@ Scripts/*
 pyvenv.cfg
 share/*
 ./SysProjects/Codes/test.py
+
