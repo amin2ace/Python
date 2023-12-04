@@ -2546,9 +2546,3 @@ import pickle
 
 
 
-import art
-
-
-
-a =art.art('amin')
-print(a)
