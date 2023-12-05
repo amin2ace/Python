@@ -2544,5 +2544,26 @@ import pickle
 
 
 
+## 7
+
+
+from PIL import Image, ImageEnhance
+
+# file = Image.open('c:/Users/Deathkiss/Downloads/oxygen.png', 'r')
+# file.convert("1")
+# file.convert("1")
+# img = Image.open('c:/Users/Deathkiss/Downloads/oxygen.png', 'r')
+# file.show()
+# thresh = 200
+# fn = lambda x : 255 if x > thresh else 5
+# r = img.convert('L').point(fn, mode='1')
+# # r.save('foo.png')
+# r.save('D:/VENVS/Sys/.venv/SysProjects/Codes/SelfModules/1.png')
+*e, = 'asfasdf'
+a = {'a':2}
+b = {'a':3}
+print(e)
+
+
 
 
