@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tile Color Changer</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(5, 100px);
+            grid-gap: 10px;
+        }
+        .tile {
+            width: 100px;
+            height: 100px;
+            background-color: #3498db;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .counter {
+            margin-bottom: 20px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="counter">Total Clicks: <span id="clickCount">0</span></div>
+    <div class="container">
+        <!-- Tiles will be generated here -->
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const container = document.querySelector('.container');
+            const clickCountDisplay = document.getElementById('clickCount');
+            let clickCount = 0;
+
+            for (let i = 0; i < 25; i++) {
+                const tile = document.createElement('div');
+                tile.classList.add('tile');
+                tile.addEventListener('click', function() {
+                    tile.style.backgroundColor = getRandomColor();
+                    clickCount++;
+                    clickCountDisplay.textContent = clickCount;
+                });
+                container.appendChild(tile);
+            }
+
+            function getRandomColor() {
+                const letters = '0123456789ABCDEF';
+                let color = '#';
+                for (let i = 0; i < 6; i++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+            }
+        });
+    </script>
+</body>
+</html>
